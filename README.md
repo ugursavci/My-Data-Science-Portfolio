@@ -8,4 +8,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 [Mall Customer Segmentation](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Mall_Customer_Segmentation)
 
+[Human Resources](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Human_Resources)
+
+
 
