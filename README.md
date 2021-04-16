@@ -14,7 +14,7 @@ In this project, We will address absenteeism problem in a company and predict ou
 
 [Mall Customer Segmentation](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Mall_Customer_Segmentation):
 #### Overview
-We already know how important marketing is. In this Project, I will address the customer segmentation and clusterin problem.
+We already know how important marketing is. In this Project, I will address the customer segmentation and clustering problem.
 So that We will know our customers shopping behaviour more.
 
 [Human Resources](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Human_Resources)
