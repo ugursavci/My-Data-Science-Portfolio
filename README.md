@@ -19,7 +19,7 @@ So that We will know our customers shopping behaviour more.
 
 [Human Resources](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Human_Resources)
 #### Overview
-
+Building a classification model that helps us to learn  which employees are more likely to quit!
 
 
 [Breast Cancer Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project-main):
