@@ -1,7 +1,8 @@
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
-![Merhaba](https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/Annual_Income%20by%20Borough.png)
+
+<img src="https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/Annual_Income%20by%20Borough.png" width="500" height="400"/>
 
 ## Contents
 [Flight Price](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price) :  
