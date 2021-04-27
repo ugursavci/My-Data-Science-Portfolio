@@ -27,7 +27,7 @@ Repository containing portfolio of data science projects completed by me for aca
 #### Overview
 - In this project,We will predict the stage of breast Cancer M (Malignant) and B (Bengin)
 
-[Amazon_Alexa_Sentiment_Analysis](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project-main):
+[Amazon_Alexa_Sentiment_Analysis](https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/Public_Relationns/Alexa_Review_Classification.ipynb):
 #### Overview
 - Built machine learning algorithm to classify feedback from alexa customer reviews.Throughout this project ; Exploratory Data Analysis,Cleaned up and vectorized text.
 - Used Naive Bayes Algorithm and Logistic Regression to classify feedback.
