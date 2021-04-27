@@ -2,8 +2,6 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
 
-#<img src= width="500" height="400" align="center"/>
-
 ## Contents
 [Flight Price](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price) :  
 #### Overview
@@ -28,3 +26,9 @@ Repository containing portfolio of data science projects completed by me for aca
 [Breast Cancer Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project-main):
 #### Overview
 - In this project,We will predict the stage of breast Cancer M (Malignant) and B (Bengin)
+
+[Amazon_Alexa_Sentiment_Analysis](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project-main):
+#### Overview
+- Built machine learning algorithm to classify feedback from alexa customer reviews.Throughout this project ; Exploratory Data Analysis,Cleaned up and vectorized text.
+- used Naive Bayes Algorithm and Logistic Regression to classify feedback.
+-
