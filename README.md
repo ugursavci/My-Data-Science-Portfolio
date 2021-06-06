@@ -6,7 +6,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - Predicted Customer Churn for Telecom company
 - Deployed machine learning model using Flask,Docker and AWS 
-- Application link : http://ec2-54-86-44-145.compute-1.amazonaws.com:5000/
+- Click the [link](http://ec2-54-86-44-145.compute-1.amazonaws.com:5000/) to see application
 
 ## Project 2: [Flight Fare Price Prediction](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Flight%20Price) : 
  
