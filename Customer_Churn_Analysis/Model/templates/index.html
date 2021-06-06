@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Telecom Customer Churn Prediction</title>
+    <link rel="stylesheet" type="text/css" href="static/style.css">
+</head>
+<body>
+ <div class="login">
+	<h1 style="color:black;text-align:center;"> Customer Churn Prediction</h1> <br>
+
+     <!-- Form -->
+
+    <form action="{{ url_for('predict')}}"method="post" align ="center">
+        <label for="Contract" style="color:black;font-weight: bold;"> How Many Months Customer Using the  Service ? </label><br><br>
+        <input type="text" name="Tenure" placeholder="Tenure e.g.:20" required="required" /><br><br>
+        <label for="Contract" style="color:black;font-weight: bold;"> What is the Total Charges ? </label><br><br>
+        <input type="text" name="TotalCharges" placeholder="TotalCharges e.g.:2000" required="required" /><br><br>
+        <label for="Contract" style="color:black;font-weight: bold;"> What is the Monthly Charges ? </label><br><br>
+        <input type="text" name="MonthlyCharges" placeholder="MonthlyCharge e.g.:29.95" required="required" /><br><br>
+        
+        
+        <label for="Contract" style="color:black;font-weight: bold;">Does Customer Have 2 year Contract ?</label><br><br>
+        <select name="contract">
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+        </select><br><br>
+
+        <label for="Contract" style="color:black;font-weight: bold;"> Does Customer use Electronic Payment Method ? </label><br><br>
+        <select name="Payment_Method_Electric">
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+        </select><br><br>
+        
+       
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+    
+ </div>
+ <!-- Form -->
+
+
+ <h1 style="color:black;font-family:Arial;text-align:center">{{ pred }}</h1>
+
+
+</body>
+</html>
