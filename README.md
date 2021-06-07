@@ -40,3 +40,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - Built machine learning algorithm to classify feedback from alexa customer reviews.Throughout this project ; Exploratory Data Analysis,Cleaned up and vectorized text.
 - Used Naive Bayes Algorithm and Logistic Regression to classify feedback.
+<img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/amazon_alexa.png' width="400" height="300" >
