@@ -26,7 +26,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Project 4: [Human Resources](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Human_Resources)
 
-- Built  a classification model that helps us to learn  which employees are more likely to quit their job!
+- Built  a classification model that helps us to learn  which employees are more likely to quit their job.
+ 
+<img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/human_resources1.png' width="400" height="300">       <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/human_resources2.png' width="400" height="300">
 
 ## Project 5: [Breast Cancer Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project-main):
 
