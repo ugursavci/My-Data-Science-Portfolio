@@ -8,6 +8,8 @@ Repository containing portfolio of data science projects completed by me for aca
 - Deployed machine learning model using Flask,Docker and AWS 
 - Application :
 - Click the [link](http://ec2-54-86-44-145.compute-1.amazonaws.com:5000/) to see application
+- 
+<img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/churn1.png' width="400" height="300">     <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/mutual_info.png' width="400" height="300">
 
 
 
@@ -16,6 +18,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - In this project, We will address absenteeism problem in a company and predict our absenteeism level which are seperated moderately and extremely absent .
 
 ## Project 3:[Mall Customer Segmentation](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Mall_Customer_Segmentation):
+<img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/mall_customer.png' width="400" height="300">
 
 - In this Project, KMeans algorithm has been used for customer segmentation and clustering problem.
 
