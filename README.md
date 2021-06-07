@@ -17,8 +17,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Project 3:[Mall Customer Segmentation](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Mall_Customer_Segmentation):
 
-- We already know how important marketing is. In this Project, KMeans algorithm has been used for customer segmentation and clustering problem.
-- So that We are able to know our customers shopping behaviour more accurately.
+- In this Project, KMeans algorithm has been used for customer segmentation and clustering problem.
 
 ## Project 4: [Human Resources](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Human_Resources)
 
