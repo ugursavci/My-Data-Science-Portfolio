@@ -6,8 +6,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - Predicted Customer Churn for Telecom company
 - Deployed machine learning model using Flask,Docker and AWS 
-- Application :
+- Application : 
 - Click the [link](http://ec2-54-86-44-145.compute-1.amazonaws.com:5000/) to see application
+
 <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/churn1.png' width="400" height="300">     <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/mutual_info.png' width="400" height="300">
 
 
