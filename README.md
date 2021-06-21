@@ -65,4 +65,6 @@ Repository containing portfolio of data science projects completed by me for aca
  how recently they've made a purchase, how often they buy, and the size of their purchases.
 - Created Recency,Frequency and Monetary Value to score customers and segment them.
 
+<img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/rfm_1.png' width="400" height="300" >
+
 
