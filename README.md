@@ -24,7 +24,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 
-## Project 3 [Clustering District of Istanbul]()
+## Project 3 [Clustering District of Istanbul](https://github.com/ugursavci/Clustering-Districts-of-Istanbul)
 
 ## Project 4: [Absenteeism Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Absenteeism_Project) : 
 
