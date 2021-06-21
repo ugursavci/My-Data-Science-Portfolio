@@ -13,7 +13,13 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 
-## Project 2: [Absenteeism Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Absenteeism_Project) : 
+## Project 2 [Car Price Prediction]
+- Built machine learning model utilizing Regression Algorithm 
+- Engineered and selected Features  
+
+
+
+## Project 3: [Absenteeism Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Absenteeism_Project) : 
 
 - In this project, We will address absenteeism problem in a company and predict our absenteeism level which are seperated moderately and extremely absent .
 
