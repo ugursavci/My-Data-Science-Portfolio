@@ -26,6 +26,12 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Project 3 [Clustering District of Istanbul](https://github.com/ugursavci/Clustering-Districts-of-Istanbul)
 
+- Clustered district of Istanbul using general information and location data.
+- Utilized K-Means clustering algorithm to group boroughs with their similarity.
+- Created Report and Presentation 
+
+<img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png" width="400" height ='300' />          <img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png" width="400" height ='300' /> 
+
 ## Project 4: [Absenteeism Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Absenteeism_Project) : 
 
 - In this project, We will address absenteeism problem in a company and predict our absenteeism level which are seperated moderately and extremely absent .
