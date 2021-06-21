@@ -20,6 +20,10 @@ Repository containing portfolio of data science projects completed by me for aca
 - Deployed model using Flask framework,Docker and AWS
 - Click the [link](http://ec2-34-229-56-104.compute-1.amazonaws.com:5000/) to see application
 
+<img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/car_pred1.png' width="400" height="300">    <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/car_pred2.png' width="400" height="300">
+
+
+
 ## Project 3 [Clustering District of Istanbul]()
 
 ## Project 4: [Absenteeism Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Absenteeism_Project) : 
