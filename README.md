@@ -43,7 +43,7 @@ Repository containing portfolio of data science projects completed by me for aca
  
 <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/human_resources1.png' width="400" height="300">       <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/human_resources2.png' width="400" height="300">
 
-## Project 7: [Breast Cancer Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project-main):
+## Project 7: [Breast Cancer Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project):
 
 - In this project,predicted the stage of breast Cancer M (Malignant) and B (Bengin)
 - 
