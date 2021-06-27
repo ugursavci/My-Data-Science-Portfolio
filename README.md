@@ -70,5 +70,6 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Project 10: [Customer Cohort Analysis](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Customer_Cohort_Analysis)
 - Measured Customer retention rate,quantity,average sales using cohort analysis
 - Utilized heatmap in order to get insight from patterns of each cohort.
+<img src = 'https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/cohort_!.png' width="400" height="300" >
 
 
