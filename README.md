@@ -51,7 +51,6 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Project 7: [Breast Cancer Project](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Breast_Cancer_Project):
 
 - In this project,predicted the stage of breast Cancer M (Malignant) and B (Bengin)
-- 
  <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/bc_1.png' width="400" height="300" >     <img src='https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/images/bc_2.png' width="400" height="300" >
 
 ## Project 8: [Amazon Alexa Sentiment Analysis](https://github.com/ugursavci/My-Data-Science-Portfolio/blob/main/Public_Relationns/Alexa_Review_Classification.ipynb):
