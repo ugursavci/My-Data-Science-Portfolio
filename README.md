@@ -15,7 +15,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Project 2 [Car Price Prediction](https://github.com/ugursavci/My-Data-Science-Portfolio/tree/main/Car_Prediction)
 - Explored and Preprocessed Data
 - Dropped Correlated Features
-- Built machine learning model utilizing Regression Algorithm 
+- Built machine learning model using Regression Algorithm 
 - Deployed model using Flask framework,Docker and AWS
 - Click the >>>>> [link](http://ec2-3-66-156-60.eu-central-1.compute.amazonaws.com:5000/) to see application
 
